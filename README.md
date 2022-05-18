@@ -1,7 +1,7 @@
 ## Project-ideas
 New project and research ideas
 
-### 1. Convert raster images to vectorized images and back using bezier surfaces, with zero data loss.
+### 1. Convert rastered bitmap images to vectorized images and back using bezier surfaces, with zero data loss.
 
 ##### Current methods:
 
