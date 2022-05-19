@@ -12,3 +12,8 @@ New project and research ideas
 ![image](https://user-images.githubusercontent.com/52484751/169096161-01f6b1de-21fd-4ba4-9e45-8c1e5f4ebb0f.png)
 
 ##### Possible surprising outcome: A new image format
+
+##### Read about: 
+
+1. Adobe Illustrator's gradient meshes
+2. B-Splines
