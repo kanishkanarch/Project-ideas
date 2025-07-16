@@ -17,3 +17,7 @@ New project and research ideas
 
 1. Adobe Illustrator's gradient meshes
 2. B-Splines
+
+### 2. Online collaboration with TexStudio & Git
+
+Real-time saving and local hashing of tex files, continuous staging (not committing) and then automatic rebasing as soon as "confirm" ping is requested (or not).
