@@ -20,4 +20,5 @@ New project and research ideas
 
 ### 2. Online collaboration with TexStudio & Git
 
-Real-time saving and local hashing of tex files, continuous staging (not committing) and then automatic rebasing as soon as "confirm" ping is requested (or not).
+1. Real-time saving and local hashing of tex files, continuous staging (not committing) and then automatic rebasing as soon as "confirm" ping is requested (or not).
+2. [VS-Code live-share](https://visualstudio.microsoft.com/services/live-share/) like feature on TexStudio with live saving in client PCs. 
