@@ -1,5 +1,5 @@
 ## Project-ideas
-New project and research ideas
+Some fun project and research ideas
 
 ### 1. Convert rastered bitmap images to vectorized images and back using bezier surfaces, with zero data loss.
 
